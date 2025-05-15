@@ -16,5 +16,6 @@ docker run -p 8000:8000 calculator-app
 ```bash
 uvicorn app.main:app --reload
 ```
-## Video Link
-https://drive.google.com/file/d/1-z-7t6IL9oUx6OwRYKmXziCrczXgMBux/view?usp=drive_link
+### Installing dependencies
+pip install -r requirements.txt
+
