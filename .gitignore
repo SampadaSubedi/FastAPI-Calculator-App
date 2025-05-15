@@ -1,0 +1,5 @@
+#vitual environments
+venv/
+
+#ignore .env files to prevent sensitive data from being committed
+.env
